@@ -5,4 +5,4 @@ This is a fun little science project that turns my hobbies into an actual assign
 In this project we ask the obvious question: What is the Fastest algorithm that can be used to sort a list?
 You can check out my results throughout repository folders and files.
 
-(I hope this is actually useful to some)
+(I hope this proves useful to some)
