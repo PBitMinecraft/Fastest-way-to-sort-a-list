@@ -1,0 +1,10 @@
+5000numval.txt sorted (numbers) in 0.01664 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01606 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01725 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.017 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01684 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01676 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01545 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.0169 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01701 seconds using Merge Sort.
+5000numval.txt sorted (numbers) in 0.01644 seconds using Merge Sort.

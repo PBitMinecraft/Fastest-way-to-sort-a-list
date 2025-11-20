@@ -1,0 +1,10 @@
+5000numval.txt sorted (numbers) in 0.68349 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.70621 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.65142 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.65832 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.65651 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.66102 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.68101 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.6536 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.66338 seconds using Insertion Sort.
+5000numval.txt sorted (numbers) in 0.68129 seconds using Insertion Sort.

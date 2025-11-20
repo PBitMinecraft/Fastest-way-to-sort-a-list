@@ -1,0 +1,10 @@
+5000numval.txt sorted (numbers) in 0.00933 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.00938 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.009 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.00905 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.00915 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.00726 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.00896 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.0089 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.0091 seconds using Quick Sort.
+5000numval.txt sorted (numbers) in 0.00951 seconds using Quick Sort.

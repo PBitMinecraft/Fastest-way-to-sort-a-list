@@ -1,0 +1,10 @@
+10000numval.txt sorted (numbers) in 2.45051 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.44426 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.43155 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.46509 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.39982 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.41983 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.44774 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.53412 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.53148 seconds using Selection Sort.
+10000numval.txt sorted (numbers) in 2.49143 seconds using Selection Sort.

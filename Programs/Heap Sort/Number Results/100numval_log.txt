@@ -1,0 +1,10 @@
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.00021 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.
+100numval.txt sorted (numbers) in 0.0002 seconds using Heap Sort.

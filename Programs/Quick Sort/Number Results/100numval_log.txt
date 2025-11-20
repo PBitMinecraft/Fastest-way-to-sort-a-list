@@ -1,0 +1,10 @@
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
+100numval.txt sorted (numbers) in 8e-05 seconds using Quick Sort.
